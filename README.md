@@ -33,12 +33,17 @@ musicalizer/
 
 ## ⚙️ How to Run
 
-# 1. Clone this repository
-git clone https://github.com/your-username/musicalizer.git
-cd musicalizer/src
+# 1. Fork/Clone this repository
+git clone https://github.com/dalerivatives/musicalizer.git
+cd musicalizer
 
 # 2. Compile the project
 javac OOPGUIFinalProjectMusicalizer.java
 
 # 3. Run the application
 java OOPGUIFinalProjectMusicalizer
+
+# 4. You can download the java code below:
+https://github.com/dalerivatives/musicalizer
+
+
